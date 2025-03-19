@@ -1,0 +1,4 @@
+baseURL = 'https://josh.hrdz.us/'
+languageCode = 'en-us'
+title = 'Josue Hernandez'
+theme = 'terminal'
