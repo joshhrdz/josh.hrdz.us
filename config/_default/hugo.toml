@@ -8,7 +8,9 @@ pagination.pagerSize = 10
   contentTypeName = "posts"
   showMenuItems = 4
   fullWidthTheme = false
-  centerTheme = false
+  centerTheme = true
+  showLanguageSelector = true
+  
   [params.logo]
     logoText = "Josue Hernandez"
     logoHomeLink = "/"
@@ -18,18 +20,20 @@ pagination.pagerSize = 10
     languageCode = 'en-US'
     languageName = 'English'
 
-    subtitle = "this is not a blog"
-    menuMore = "Show more"
-    readMore = "Read more"
-    readOtherPosts = "Read other posts"
+    [languages.en.params]
+      subtitle = "> this is not a blog"
+      menuMore = "Show more"
+      readMore = "Read more"
+      readOtherPosts = "Read other posts"
 
   [languages.es]
     languageCode = 'es-US'
     languageName = 'Español'
 
-    subtitle = "esto no es un blog"
-    menuMore = "Ver más"
-    readMore = "Leer más"
-    readOtherPosts = "Leer otros posts"
+    [languages.es.params]
+      subtitle = "> esto no es un blog"
+      menuMore = "Ver más"
+      readMore = "Leer más"
+      readOtherPosts = "Leer otros posts"
 
 

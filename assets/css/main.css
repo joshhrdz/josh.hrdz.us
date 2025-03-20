@@ -1,7 +1,7 @@
 :root {
-    --background: #fffbf7;
-    --foreground: #45372b;
-    --accent: #df7020;
+    --background: #ffffff;
+    --foreground: #454545;
+    --accent: #b9975c;
     --font-size: 1rem;
     --line-height: 1.54em;
     --radius: 0;
@@ -454,6 +454,10 @@ html {
     margin: 0 auto;
   }
   
+  .post.on-list > .post-title {
+    font-size: larger;
+  }
+
   .container.full {
     max-width: 100%;
   }

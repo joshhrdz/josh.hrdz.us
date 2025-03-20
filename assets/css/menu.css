@@ -1,11 +1,17 @@
  .navigation-menu {
-    flex-direction: row-reverse;
+    flex-direction: row;
     display: flex;
     align-items: flex-start;
     justify-content: space-between;
-    margin: 20px 1px;
+    padding: 1em 0;
+    font-weight: 600;
   }
   
+
+  .navigation-menu .subtitle {
+    display: flex;
+  }
+
   .navigation-menu__inner {
     display: flex;
     flex-wrap: wrap;

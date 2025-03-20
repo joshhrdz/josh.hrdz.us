@@ -1,11 +1,11 @@
 [[main]]
     identifier = "about"
     name = "About"
-    url = "/about"
+    pageRef = "/about"
     weight = 20
 
 [[main]]
-    identifier = "projects"
-    name = "Projects"
-    url = "/projects"
+    identifier = "posts"
+    name = "Posts"
+    pageRef = "/posts"
     weight = 10
