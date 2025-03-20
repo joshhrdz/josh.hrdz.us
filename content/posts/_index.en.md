@@ -8,8 +8,8 @@ tags = ["", ""]
 keywords = ["", ""]
 description = ""
 showFullContent = false
-readingTime = true
-hideComments = false
+readingTime = false
+hideComments = true
 +++
 
-List of all posts go here...
+# Posts

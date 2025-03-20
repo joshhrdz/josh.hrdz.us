@@ -443,7 +443,7 @@ html {
     display: flex;
     flex-direction: column;
     padding: 40px;
-    max-width: 864px;
+    max-width: 80vw;
     min-height: 100vh;
     border-right: 1px solid color-mix(in srgb, var(--accent) 10%, transparent);
     flex: 1;
@@ -452,6 +452,11 @@ html {
   .container.full, .container.center {
     border: none;
     margin: 0 auto;
+  }
+
+  .post.on-list {
+    padding: 0 0 1em;
+    margin-bottom: 1.5em;
   }
   
   .post.on-list > .post-title {

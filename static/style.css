@@ -1,0 +1,6 @@
+.index-content {
+    padding: 0 2em 1em;
+    margin: 1em 0 2em;
+    border: var(--accent) solid 4px;
+    min-height: 10vh;
+  }

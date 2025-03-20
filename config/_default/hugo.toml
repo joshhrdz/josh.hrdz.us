@@ -3,6 +3,7 @@ defaultContentLanguage = 'en'
 title = 'Josue Hernandez :: Blog'
 theme = 'terminal'
 pagination.pagerSize = 10
+enableEmoji = true
 
 [params]
   contentTypeName = "posts"
@@ -21,7 +22,7 @@ pagination.pagerSize = 10
     languageName = 'English'
 
     [languages.en.params]
-      subtitle = "> this is not a blog"
+      subtitle = "> the world's worst blogger"
       menuMore = "Show more"
       readMore = "Read more"
       readOtherPosts = "Read other posts"
@@ -31,7 +32,7 @@ pagination.pagerSize = 10
     languageName = 'Español'
 
     [languages.es.params]
-      subtitle = "> esto no es un blog"
+      subtitle = "> el peor de los bloggers"
       menuMore = "Ver más"
       readMore = "Leer más"
       readOtherPosts = "Leer otros posts"

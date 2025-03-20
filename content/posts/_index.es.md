@@ -8,8 +8,8 @@ tags = ["", ""]
 keywords = ["", ""]
 description = ""
 showFullContent = false
-readingTime = true
-hideComments = false
+readingTime = false
+hideComments = true
 +++
 
-La lista de las entradas va aqui...
+# Entradas
