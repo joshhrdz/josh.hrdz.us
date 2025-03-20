@@ -1,0 +1,35 @@
+baseURL = 'https://josh.hrdz.us/'
+defaultContentLanguage = 'en'
+title = 'Josue Hernandez :: Blog'
+theme = 'terminal'
+pagination.pagerSize = 10
+
+[params]
+  contentTypeName = "posts"
+  showMenuItems = 4
+  fullWidthTheme = false
+  centerTheme = false
+  [params.logo]
+    logoText = "Josue Hernandez"
+    logoHomeLink = "/"
+
+[languages]
+  [languages.en]
+    languageCode = 'en-US'
+    languageName = 'English'
+
+    subtitle = "this is not a blog"
+    menuMore = "Show more"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+
+  [languages.es]
+    languageCode = 'es-US'
+    languageName = 'Español'
+
+    subtitle = "esto no es un blog"
+    menuMore = "Ver más"
+    readMore = "Leer más"
+    readOtherPosts = "Leer otros posts"
+
+
