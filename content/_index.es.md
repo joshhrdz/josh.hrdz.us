@@ -5,6 +5,6 @@ title = ''
 
 # Bienvenido...
 
-### Este blog trata principalmente sobre programación y desarrollo de software. Encontrarás artículos sobre `Java`, `Python`, `Cybersecurity`, `Go`, y cualquier cosa que pueda interesarme.
+### Este blog trata principalmente de programación y desarrollo de software, inteligencia artificial, microservicios y ciberseguridad. Son mayormente notas de las tecnologias y temas que estudio, que las he publicado por si sirven de ayuda a alguien.
 
 ### Es un proyecto en desarrollo, espero te sea útil.:thumbsup:.

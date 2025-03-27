@@ -5,6 +5,6 @@ title = ''
 
 # Welcome...
 
-### This blog is mostly about software development. Expect to see articles about `Java`, `Python`, `Cybersecurity`, `Go`, and really anything that I may find interesting.
+### This blog is mostly about software development, artificial intelligence, microservices and cybersecurity. Yeah, all the buzz words. In reality, these are just my notes as I learn more about these and other technologies. 
 
-### It is a work in progress, but I hope you find it useful:thumbsup:.
+### It is a work in progress, but I do hope you find it useful:thumbsup:.
