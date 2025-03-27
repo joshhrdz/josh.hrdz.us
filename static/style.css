@@ -4,3 +4,7 @@
     border: var(--accent) solid 4px;
     min-height: 10vh;
   }
+
+  a.button.inline {
+    margin: 0.5em 0 0;
+}
