@@ -443,7 +443,7 @@ html {
     display: flex;
     flex-direction: column;
     padding: 40px;
-    max-width: 80vw;
+    max-width: 70vw;
     min-height: 100vh;
     border-right: 1px solid color-mix(in srgb, var(--accent) 10%, transparent);
     flex: 1;

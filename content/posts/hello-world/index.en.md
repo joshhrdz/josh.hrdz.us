@@ -18,4 +18,4 @@ I always felt like writing a blog would be a waste of my time, but I guess that 
 
 I'm mostly interested in software development with `java`, `python`, and `c++`. I'll also write about `ai`, `cybersecurity`, `microservices`, `entrepreneurship`, and whatever else comes to mind.
 
-On some level these musings are mostly for me, but having them in the public space may prove beneficial to some. That's the hope. The site is hosted in [Cloudflare Pages](https://pages.cloudflare.com/) and uses [Hugo](https://gohugo.io/) with a customized version of the [Terminal theme](https://github.com/panr/hugo-theme-terminal).
+On some level these musings are mostly for me, but having them in the public space may prove beneficial to some. That's the hope. The site is hosted on [Cloudflare Pages](https://pages.cloudflare.com/) and uses [Hugo](https://gohugo.io/) with a customized version of the [Terminal theme](https://github.com/panr/hugo-theme-terminal).
